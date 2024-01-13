@@ -26,3 +26,7 @@ The project consists of two main parts:
    ```bash
    git clone https://github.com/your-username/bitcoin-price-prediction.git
    cd bitcoin-price-prediction
+   ```
+## Results
+- The ARIMA model's predictions are visualized and compared with actual Bitcoin prices.
+- Trading metrics such as net profit, win rate, and risk-reward ratio are printed for the mean-reversion strategy.
